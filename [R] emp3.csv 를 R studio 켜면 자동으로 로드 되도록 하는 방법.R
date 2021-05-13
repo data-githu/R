@@ -3,7 +3,7 @@
 
 C:\Program Files\R\R-자신의버전번호\etc\Rprofile.site 파일을 엽니다.
 
-그리고 맨 아래줄에 다음의 내용을 추가하고 저장한 다음 Rstudio 를 실행합니다.
+그리고 맨 아래줄에 다음의 내용을 추가하고 저장한 다음 Rstudio 를 실행합니다
 
 library(utils)
 setwd("d:\\data")
